@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.15.3",
     "cors": "^2.8.4",
-    "nodemon": "^1.14.12",
+    "nodemon": "^2.0.20",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-router": "^3.0.0",
